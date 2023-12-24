@@ -29,11 +29,10 @@
 <details>
   <summary><h3>Dependencies</h3></summary>
 
-<b>Zphisher</b> requires following programs to run properly - 
+<b>Temperature-Converter</b> requires following programs to run properly - 
 - `git`
 - `java`
 
-> All the dependencies will be installed automatically when you run **Temperature-Converter** for the first time.
 </details>
 
 <details>
