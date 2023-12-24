@@ -13,7 +13,7 @@
 - First open the terminal or command prompt
 - Just, Clone this repository -
   ```
-  $ git clone https://github.com/kanix7/Temperature-Converter
+  $ git clone https://github.com/Kanishk-Chaudhary/Temperature-Converter
   ```
 
 - Now go to cloned directory and run `main.java` -
