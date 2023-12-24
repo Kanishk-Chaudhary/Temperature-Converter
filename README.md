@@ -10,6 +10,7 @@
 
 ### Installation and Use
 
+- First open the terminal or command prompt
 - Just, Clone this repository -
   ```
   git clone https://github.com/kanix7/Temperature-Converter
