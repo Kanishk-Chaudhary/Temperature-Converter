@@ -3,8 +3,8 @@
 ### Features
 
 - Beginners friendly
-- Convert temperature into celcius to ferenheit.
-- Convert temperature into ferenheit to celcius.
+- Convert temperature into celcius to fahrenheit.
+- Convert temperature into fahrenheit to celcius.
 
 ##
 
