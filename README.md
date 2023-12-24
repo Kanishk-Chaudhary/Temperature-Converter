@@ -4,7 +4,7 @@
 
 - Beginners friendly
 - Convert temperature into celcius to ferenheit.
-- Convert temperature into ferenheit.
+- Convert temperature into ferenheit to celcius.
 
 ##
 
