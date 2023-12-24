@@ -13,6 +13,7 @@ public class main {
         System.out.println("6. kelvin to fahrenheit");
         System.out.print("Enter the number: ");
         Long a = input.nextLong();
+
         if (a == 1) {
             System.out.print("Enter the temperature in celcius: ");
             float b = input.nextFloat();
