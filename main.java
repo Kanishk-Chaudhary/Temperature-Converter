@@ -11,6 +11,7 @@ public class main {
         System.out.println("4. celcius to kelvin");
         System.out.println("5. fahrenheit to kelvin");
         System.out.println("6. kelvin to fahrenheit");
+        System.out.print("Enter the number: ");
         Long a = input.nextLong();
         if (a == 1) {
             System.out.print("Enter the temperature in celcius: ");
