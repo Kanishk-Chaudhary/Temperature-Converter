@@ -19,7 +19,6 @@
 - Now go to cloned directory and run `main.java` -
   ```
   $ cd Temperature-Converter
-  $ unset _JAVA_OPTIONS
   $ java main.java
   ```
 
