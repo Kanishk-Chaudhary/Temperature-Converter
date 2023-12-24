@@ -5,8 +5,8 @@ public class main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Choose the degree:");
-        System.out.println("1. celcius to fehenheit");
-        System.out.println("2. fehenheit to celcius");
+        System.out.println("1. celcius to ferenheit");
+        System.out.println("2. ferenheit to celcius");
         Long a = input.nextLong();
         if (a == 1) {
             System.out.print("Enter the tempreture in celcius : ");
