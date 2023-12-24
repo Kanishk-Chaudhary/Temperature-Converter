@@ -48,5 +48,5 @@
 
 <h3 align="center"><i>:: Workflow ::</i></h3>
 <p align="center">
-<img src=".assests/workflow.png"/>
+<img src="./assests/workflow.png"/>
 </p>
